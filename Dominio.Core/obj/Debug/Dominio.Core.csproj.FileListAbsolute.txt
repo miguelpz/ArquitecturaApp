@@ -1,0 +1,5 @@
+C:\Users\Arles\source\repos\FinalAppWeb\Dominio.Core\bin\Debug\Dominio.Core.dll
+C:\Users\Arles\source\repos\FinalAppWeb\Dominio.Core\bin\Debug\Dominio.Core.pdb
+C:\Users\Arles\source\repos\FinalAppWeb\Dominio.Core\obj\Debug\Dominio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Arles\source\repos\FinalAppWeb\Dominio.Core\obj\Debug\Dominio.Core.dll
+C:\Users\Arles\source\repos\FinalAppWeb\Dominio.Core\obj\Debug\Dominio.Core.pdb
